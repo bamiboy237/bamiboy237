@@ -1,16 +1,22 @@
-## Hi there 👋
+# Kon'nichiwa 
 
-<!--
-**bamiboy237/bamiboy237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*"In code, as in strategy, simplicity is the ultimate sophistication."*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗡️ Arsenal
+
+**Core**  
+Python | JavaScript | Rust | C++ | Systems Design  
+CI/CD • Cloud Architecture • Smart Contracts
+
+**Secondary**  
+EdTech Solutions • DevOps Automation • Blockchain Integration
+
+---
+
+## Current Campaigns
+
+- Architecting resilient event-driven systems
+- Optimizing educational technology stacks
+- Developing secure decentralized patterns
