@@ -1,22 +1,25 @@
-# Kon'nichiwa 
+# Hi, I'm Guy-robert Bogning 👋
 
-*"In code, as in strategy, simplicity is the ultimate sophistication."*
+**Computer Science @ University of Central Oklahoma** (B.S. 2028) | **Break Through Tech AI Fellow @ Cornell Tech**
 
----
-
-## 🗡️ Arsenal
-
-**Core**  
-Python | JavaScript | Rust | C++ | Systems Design  
-CI/CD • Cloud Architecture • Smart Contracts
-
-**Secondary**  
-EdTech Solutions • DevOps Automation • Blockchain Integration
+I'm a backend and applied ML engineer focused on **search infrastructure**, **information retrieval (RAG)**, and **resilient backend microservices**. Currently building data pipelines and API gateways at Palaver Institute while deploying ML models through Break Through Tech AI at Cornell Tech.
 
 ---
 
-## Current Campaigns
+## ⚡ Current Focus & Engineering Work
 
-- Architecting resilient event-driven systems
-- Optimizing educational technology stacks
-- Developing secure decentralized patterns
+- 🛠️ **Backend Engineering Intern** @ *Palaver Institute* — Designing Spring Boot API gateways with JWT validation, NLP reporting pipelines using AI, and transactional campaign engines.
+- 🤖 **AI/ML Fellow** @ *Break Through Tech AI (Cornell Tech)* — Engineering end-to-end predictive modeling & ML pipelines on industry datasets.
+- 🔍 **Search & Retrieval Systems** — Building low-latency CLI search engines and vector-dense hybrid RAG architectures.
+
+---
+
+## 🛠️ Tech Stack & Systems Arsenal
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, SQL, JavaScript, C/C++, Bash |
+| **Backend Systems** | FastAPI, Spring Boot, REST APIs, JWT Auth, Microservices, AsyncIO |
+| **Data & Vector Storage** | PostgreSQL, Redis, SQLite FTS5, ChromaDB, pgvector |
+| **ML & AI Systems** | XGBoost, PyTorch Geometric (GNNs), Sentence Transformers, RAG, SHAP |
+| **Developer Tools & Infra** | Docker, Git, Linux, AWS, Textual, CI/CD |
