@@ -1,4 +1,4 @@
-# Hi, I'm Guy-robert Bogning 👋
+# Hi, I'm Guy-robert Bogning,
 
 **Computer Science @ University of Central Oklahoma** (B.S. 2028) | **Break Through Tech AI Fellow @ Cornell Tech**
 
@@ -6,15 +6,15 @@ I'm a backend and applied ML engineer focused on **search infrastructure**, **in
 
 ---
 
-## ⚡ Current Focus & Engineering Work
+## Current Focus & Engineering Work
 
-- 🛠️ **Backend Engineering Intern** @ *Palaver Institute* — Designing Spring Boot API gateways with JWT validation, NLP reporting pipelines using AI, and transactional campaign engines.
-- 🤖 **AI/ML Fellow** @ *Break Through Tech AI (Cornell Tech)* — Engineering end-to-end predictive modeling & ML pipelines on industry datasets.
-- 🔍 **Search & Retrieval Systems** — Building low-latency CLI search engines and vector-dense hybrid RAG architectures.
+- **Backend Engineering Intern** @ *Palaver Institute* — Designing Spring Boot API gateways with JWT validation, NLP reporting pipelines using AI, and transactional campaign engines.
+- **AI/ML Fellow** @ *Break Through Tech AI (Cornell Tech)* — Engineering end-to-end predictive modeling & ML pipelines on industry datasets.
+- **Search & Retrieval Systems** — Building low-latency CLI search engines and vector-dense hybrid RAG architectures.
 
 ---
 
-## 🛠️ Tech Stack & Systems Arsenal
+## Tech Stack & Systems Arsenal
 
 | Category | Technologies |
 |---|---|
