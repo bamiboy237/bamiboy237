@@ -2,7 +2,7 @@
 
 **Computer Science @ University of Central Oklahoma** (B.S. 2028)
 
-currently tinkering with **search infrastructure**, **information retrieval**, and **applied ml**
+currently tinkering with **search infrastructure**, **information retrieval**, and **applied ml** 
 
 ---
 
