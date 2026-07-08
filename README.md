@@ -1,6 +1,6 @@
 # Hi, I'm Guy-robert Bogning,
 
-**Computer Science @ University of Central Oklahoma** (B.S. 2028) | **Break Through Tech AI Fellow @ Cornell Tech**
+**Computer Science @ University of Central Oklahoma** (B.S. 2028)
 
 currently tinkering with **search infrastructure**, **information retrieval**, and **applied ml**
 
