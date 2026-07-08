@@ -2,15 +2,14 @@
 
 **Computer Science @ University of Central Oklahoma** (B.S. 2028) | **Break Through Tech AI Fellow @ Cornell Tech**
 
-I'm a backend and applied ML engineer focused on **search infrastructure**, **information retrieval (RAG)**, and **resilient backend microservices**. Currently building data pipelines and API gateways at Palaver Institute while deploying ML models through Break Through Tech AI at Cornell Tech.
+currently tinkering with **search infrastructure**, **information retrieval**, and **applied ml**
 
 ---
 
 ## Current Focus & Engineering Work
 
-- **Backend Engineering Intern** @ *Palaver Institute* — Designing Spring Boot API gateways with JWT validation, NLP reporting pipelines using AI, and transactional campaign engines.
-- **AI/ML Fellow** @ *Break Through Tech AI (Cornell Tech)* — Engineering end-to-end predictive modeling & ML pipelines on industry datasets.
-- **Search & Retrieval Systems** — Building low-latency CLI search engines and vector-dense hybrid RAG architectures.
+- **Lead Backend Engineering Intern** @ *Palaver Institute* — building SpringBoot API services
+- **AI/ML Fellow** @ *Break Through Tech AI (Cornell Tech)* — building end-to-end applied ml projects in stealth industry domains.
 
 ---
 
