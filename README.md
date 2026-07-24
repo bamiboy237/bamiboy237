@@ -1,24 +1,25 @@
-# Hi, I'm Guy-robert Bogning,
+# Hi, I’m Guy-robert
 
-**Computer Science @ University of Central Oklahoma** (B.S. 2028)
+I’m a computer science student at the University of Central Oklahoma and a backend engineer interested in search, information retrieval, and applied machine learning.
 
-currently tinkering with **search infrastructure**, **information retrieval**, and **applied ml** 
+I like tinkering with complicated ideas and systems and building useful stuff.
 
----
+Currently:
 
-## Current Focus & Engineering Work
+- Building Spring Boot services as a Lead Backend Engineering Intern at Palaver Institute
+- Developing end-to-end projects as a Break Through Tech AI Fellow at Cornell Tech
+- Experimenting with retrieval systems, developer tools, and scalable backend infrastructure
 
-- **Lead Backend Engineering Intern** @ *Palaver Institute* — building SpringBoot API services
-- **AI/ML Fellow** @ *Break Through Tech AI (Cornell Tech)* — building end-to-end applied ml projects in stealth industry domains.
+## Selected Work
 
----
+- **[Pharos](https://github.com/bamiboy237/pharos)** — Built an Ethereum wallet-risk platform with FastAPI, React, XGBoost, live Etherscan data, and SHAP-based explanations.
+- **[PowerFactory MCP](https://github.com/bamiboy237/powerfactory-mcp)** — Built a local, authenticated service that gives coding agents controlled access to engineering workflows in DIgSILENT PowerFactory.
+- **[sift-cli](https://github.com/bamiboy237/sift-cli)** — Built an offline, keyboard-first file search tool using Python, SQLite FTS5, and Textual.
 
-## Tech Stack & Systems Arsenal
+## Tools I Reach For
 
-| Category | Technologies |
-|---|---|
-| **Languages** | Python, SQL, JavaScript, C/C++, Bash |
-| **Backend Systems** | FastAPI, Spring Boot, REST APIs, JWT Auth, Microservices, AsyncIO |
-| **Data & Vector Storage** | PostgreSQL, Redis, SQLite FTS5, ChromaDB, pgvector |
-| **ML & AI Systems** | XGBoost, PyTorch Geometric (GNNs), Sentence Transformers, RAG, SHAP |
-| **Developer Tools & Infra** | Docker, Git, Linux, AWS, Textual, CI/CD |
+Python, Java, Spring Boot, FastAPI, PostgreSQL, Redis, SQLite, Docker, and AWS
+
+## Let’s Connect
+
+[LinkedIn](https://www.linkedin.com/in/bogningguyrobert) · [Email](mailto:bogningguyrobert@gmail.com)
