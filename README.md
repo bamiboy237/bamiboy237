@@ -12,9 +12,11 @@ I am seeking Summer 2027 software engineering internships.
 
 ## Selected Work
 
-- **[Pharos](https://github.com/bamiboy237/pharos)** — Built an Ethereum wallet-risk platform with FastAPI, React, XGBoost, live Etherscan data, and SHAP-based explanations.
-- **[PowerFactory MCP](https://github.com/bamiboy237/powerfactory-mcp)** — Built a local, authenticated service that gives coding agents controlled access to engineering workflows in DIgSILENT PowerFactory.
+- **[agent-handoff](https://github.com/bamiboy237/agent-handoff)** — One-click local-to-cloud handoff for coding agents: move an unfinished task from your laptop to a cloud sandbox or your own machine and keep it running after you disconnect.
 - **[sift-cli](https://github.com/bamiboy237/sift-cli)** — Built an offline, keyboard-first file search tool using Python, SQLite FTS5, and Textual.
+- **[Reelcall](https://github.com/bamiboy237/reelcall)** — A video processing service with background editing jobs, building toward search by description ("the part where someone drops the red cup").
+- **[bud](https://github.com/bamiboy237/bud)** — A self-hosted personal AI agent with an append-only event log, durable execution that recovers work after a crash, a model gateway with provider fallback and cost tracking, and approval gates for write actions.
+- **[PowerFactory MCP](https://github.com/bamiboy237/powerfactory-mcp)** — Built a local, authenticated service that gives coding agents controlled access to engineering workflows in DIgSILENT PowerFactory.
 
 ## Tools I Reach For
 
