@@ -1,14 +1,14 @@
 # Hi, I’m Guy-robert
 
-I’m a computer science student at the University of Central Oklahoma and a backend engineer interested in search, information retrieval, and applied machine learning.
+I’m a Computer Science student at the University of Central Oklahoma, graduating in May 2028.
 
-I like tinkering with complicated ideas and systems and building useful stuff.
+I previously worked on the backend team at Palaver Institute, a startup building a research review and publication platform for over 2,000 African researchers. I also automated administrative tasks, including survey reporting, saving over 8 hours a week.
 
-Currently:
+Currently, I’m a fellow at Break Through Tech and AI4ALL, where I work with other students to build and deploy machine learning projects. My most recent project is a career recommendation and navigation platform.
 
-- Building Spring Boot services as a Lead Backend Engineering Intern at Palaver Institute
-- Developing end-to-end projects as a Break Through Tech AI Fellow at Cornell Tech
-- Experimenting with retrieval systems, developer tools, and scalable backend infrastructure
+I’m most proficient in Python, but I also have experience with Java, Spring Boot, and TypeScript and can quickly learn new technologies as needed.
+
+I am seeking Summer 2027 software engineering internships.
 
 ## Selected Work
 
