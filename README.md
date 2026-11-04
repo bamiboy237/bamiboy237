@@ -18,10 +18,6 @@ I am seeking Summer 2027 software engineering internships.
 - **[bud](https://github.com/bamiboy237/bud)** — A self-hosted personal AI agent with an append-only event log, durable execution that recovers work after a crash, a model gateway with provider fallback and cost tracking, and approval gates for write actions.
 - **[PowerFactory MCP](https://github.com/bamiboy237/powerfactory-mcp)** — Built a local, authenticated service that gives coding agents controlled access to engineering workflows in DIgSILENT PowerFactory.
 
-## Tools I Reach For
-
-Python, Java, Spring Boot, FastAPI, PostgreSQL, Redis, SQLite, Docker, and AWS
-
 ## Let’s Connect
 
 [LinkedIn](https://www.linkedin.com/in/bogningguyrobert) · [Email](mailto:bogningguyrobert@gmail.com)
