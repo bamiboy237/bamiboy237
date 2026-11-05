@@ -12,11 +12,11 @@ I am seeking Summer 2027 software engineering internships.
 
 ## Selected Work
 
-- **[agent-handoff](https://github.com/bamiboy237/agent-handoff)** — One-click local-to-cloud handoff for coding agents: move an unfinished task from your laptop to a cloud sandbox or your own machine and keep it running after you disconnect.
-- **[sift-cli](https://github.com/bamiboy237/sift-cli)** — Built an offline, keyboard-first file search tool using Python, SQLite FTS5, and Textual.
-- **[Reelcall](https://github.com/bamiboy237/reelcall)** — A video processing service with background editing jobs, building toward search by description ("the part where someone drops the red cup").
-- **[bud](https://github.com/bamiboy237/bud)** — A self-hosted personal AI agent with an append-only event log, durable execution that recovers work after a crash, a model gateway with provider fallback and cost tracking, and approval gates for write actions.
-- **[PowerFactory MCP](https://github.com/bamiboy237/powerfactory-mcp)** — Built a local, authenticated service that gives coding agents controlled access to engineering workflows in DIgSILENT PowerFactory.
+- **[agent-handoff](https://github.com/bamiboy237/agent-handoff)** — Move an unfinished coding agent task to the cloud or another machine.
+- **[sift-cli](https://github.com/bamiboy237/sift-cli)** — Search files locally from your terminal.
+- **[Reelcall](https://github.com/bamiboy237/reelcall)** — Processes video editing jobs in the background. Working on letting you find specific moments by describing what happens in them.
+- **[bud](https://github.com/bamiboy237/bud)** — A self-hosted persistent personal AI agent.
+- **[PowerFactory MCP](https://github.com/bamiboy237/powerfactory-mcp)** — An MCP server that lets coding agents run tasks in DIgSILENT PowerFactory.
 
 ## Let’s Connect
 
