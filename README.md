@@ -1,23 +1,37 @@
 # Hi, I’m Guy-robert
 
-I’m a Computer Science student at the University of Central Oklahoma, graduating in May 2028.
+Computer Science @ University of Central Oklahoma (Class of 2028) · Seeking Summer 2027 Software Engineering Internships
 
-I previously worked on the backend team at Palaver Institute, a startup building a research review and publication platform for over 2,000 African researchers. I also automated administrative tasks, including survey reporting, saving over 8 hours a week.
+[Portfolio](https://bamiboy.vercel.app) · [LinkedIn](https://www.linkedin.com/in/bogningguyrobert) · [Email](mailto:bogningguyrobert@gmail.com)
 
-Currently, I’m a fellow at Break Through Tech and AI4ALL, where I work with other students to build and deploy machine learning projects. My most recent project is a career recommendation and navigation platform.
+---
 
-I’m most proficient in Python, but I also have experience with Java, Spring Boot, and TypeScript and can quickly learn new technologies as needed.
+### About
 
-I am seeking Summer 2027 software engineering internships.
+- **Education:** Computer Science student at the University of Central Oklahoma, graduating in May 2028.
+- **Experience:** Previously on the backend team at **Palaver Institute**, building a research review and publication platform for over 2,000 African researchers and automating survey reporting (saving 8+ hours/week).
+- **Fellowships:** Current fellow at **Break Through Tech** and **AI4ALL**, collaborating with peers to build and deploy ML projects including a career recommendation and navigation platform.
+- **Core Strengths:** Most proficient in Python, with hands-on experience in TypeScript, JavaScript, Java, and Spring Boot.
 
-## Selected Work
+---
 
-- **[agent-handoff](https://github.com/bamiboy237/agent-handoff)** — Move an unfinished coding agent task to the cloud or another machine.
-- **[sift-cli](https://github.com/bamiboy237/sift-cli)** — Search files locally from your terminal.
-- **[Reelcall](https://github.com/bamiboy237/reelcall)** — Processes video editing jobs in the background. Working on letting you find specific moments by describing what happens in them.
-- **[bud](https://github.com/bamiboy237/bud)** — A self-hosted persistent personal AI agent.
-- **[PowerFactory MCP](https://github.com/bamiboy237/powerfactory-mcp)** — An MCP server that lets coding agents run tasks in DIgSILENT PowerFactory.
+### Technical Stack
 
-## Let’s Connect
+- **Languages:** Python, TypeScript, JavaScript, Java, SQL
+- **Backend & Full-Stack:** FastAPI, Spring Boot, Node.js, Express, React, WebSockets
+- **Data & Infrastructure:** PostgreSQL, Redis, SQLite, Docker, Git, Linux
 
-[LinkedIn](https://www.linkedin.com/in/bogningguyrobert) · [Email](mailto:bogningguyrobert@gmail.com)
+---
+
+### Selected Work
+
+| Project | What It Does | Stack |
+| :--- | :--- | :--- |
+| **[agent-handoff](https://github.com/bamiboy237/agent-handoff)** | Move an unfinished coding agent task from your machine to a cloud sandbox or SSH host and follow progress live. | `JavaScript` `Node.js` `MCP` |
+| **[easel](https://github.com/bamiboy237/easel)** | Shared multimodal canvas where people and AI agents explore, create, and revise ideas together. | `TypeScript` `React` `tldraw` |
+| **[district-assist-ai](https://github.com/bamiboy237/district-assist-ai)** | Multi-tenant student support platform with row-level CSV validation, role-based access, and audit logs. | `TypeScript` `Express` `React` `PostgreSQL` |
+| **[bud](https://github.com/bamiboy237/bud)** | Local-first personal AI teammate with crash recovery, SQLite durability, and explicit write approvals. | `Python` `Rust` `SQLite` |
+| **[sift-cli](https://github.com/bamiboy237/sift-cli)** | Offline terminal file search tool indexing local directories into SQLite FTS5 with live previews. | `Python` `SQLite` `TUI` |
+| **[broadcast-server](https://github.com/bamiboy237/broadcast-server)** | Real-time WebSocket communication server with room-based chat, file sharing, auth, and Redis. | `Python` `FastAPI` `Redis` `Docker` |
+| **[reelcall](https://github.com/bamiboy237/reelcall)** | Background video processing service with queued jobs and search by description. | `Python` `Docker` `PostgreSQL` `FFmpeg` |
+| **[powerfactory-mcp](https://github.com/bamiboy237/powerfactory-mcp)** | Safe MCP-compatible agent workflows for DIgSILENT PowerFactory load-flow and topology inspection. | `Python` `MCP` |
